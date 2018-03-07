@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MenuOpcionesContextoPopup</string>
+    <string name="menuAbout">About</string>
+    <string name="menuSettings">Settings</string>
+    <string name="texto_about">about</string>
+    <string name="texto_settings">Settings</string>
+    <string name="menu_edit">Edit</string>
+    <string name="menu_delete">Delete</string>
+    <string name="nombre_persona">Bodoca mosha</string>
+    <string name="mensaje_edit">editar</string>
+    <string name="mensaje_delete">eliminar</string>
+    <string name="menu_view">view Image</string>
+    <string name="menu_detalle">view image detail </string>
+    <string name="menu_search">search </string>
+</resources>
